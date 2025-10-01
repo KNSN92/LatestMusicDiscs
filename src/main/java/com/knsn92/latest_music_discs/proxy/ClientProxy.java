@@ -37,7 +37,7 @@ public class ClientProxy extends CommonProxy {
         Files.createDirectories(AssetPaths.TEXTURES_ITEMS);
         Files.createDirectories(AssetPaths.LANG);
 
-        System.out.println(VersionManifest.fetch().latest.release);
+//        System.out.println(VersionManifest.fetch().latest.release);
 
         MCDataDownloader mcAssetDownloader = new MCDataDownloader(Assets.ASSET_URL_PREFIX);
         mcAssetDownloader.setMCJar(new URL(Assets.CLIENT_JAR_URL), AssetPaths.CLIENT_JAR);
