@@ -1,6 +1,6 @@
 # Latest Music Discs Mod
 
-<p align="center"><img alt="thumbnail" src="https://github.com/KNSN92/LatestMusicDiscs/blob/main/thumbnail.png?raw=true" width="25%" /></p>
+<p align="center"><img alt="thumbnail" src="https://github.com/KNSN92/LatestMusicDiscs/blob/main/thumbnail.png?raw=true" width="50%" /></p>
 
 minecraft 1.7.10 に最新の音楽レコードを追加するmodです。
 
